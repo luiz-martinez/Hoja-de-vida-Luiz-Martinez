@@ -1,0 +1,166 @@
+
+/** utilidades **/
+
+.centrar{ 
+text-align: center;
+}
+
+
+/** header**/
+  .foto { 
+     width: 8rem;
+     height: 10rem;
+     padding-bottom: 1rem;
+  }
+     
+.ch{ 
+     width: 40rem;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1rem;
+} 
+ 
+.inicio{ 
+     display: flex;
+    justify-content: center;
+    background-color: #ffda2d;
+}
+ 
+   
+h2{ 
+     padding: 0 0 0 1.5rem;  
+  color: #e02a00;
+}
+   
+h2.{  
+     text-align: center;
+      color: #e02a00;
+
+}
+ /** perfil profesional - estudio realizados ambos tiene el mismo maqueteado**/
+.perfil{ 
+     display: flex;
+     
+}
+   
+.pp{ 
+     max-width: 100%;
+    width: 60rem;
+    display: block;
+    padding: 0 4rem 0 2rem;
+    text-align: justify;
+} 
+  
+   
+.personal{ 
+     display: block;
+    margin: 0 0 0 4rem;
+    width: 25rem;
+}
+  
+.iconof{ 
+     width: 5rem;
+    height: 5rem;
+}
+     
+} 
+.informacion{ 
+    display: block;
+   
+     
+/**inicio experiencia laboral**/
+}
+.parrafo{   
+     display: flex;
+     margin: 5px;   
+    
+} 
+
+/**habilidades tecnicas**/
+   
+.barra{  
+
+width: 250px;  
+border: solid; 
+padding: 5px;
+background: #ffda2d; 
+max-width: 100%;
+     
+
+}  
+.border{ 
+  
+   padding:8px ; 
+   background: green; 
+   max-width: 40%; 
+
+    
+} 
+
+}
+
+.ínicioc{ 
+     
+    display: flex; 
+    margin: 0 2rem 0 2rem;
+}
+ 
+.inicioa{ 
+     
+    display: block;   
+    margin: 4rem 3rem 0 1rem;
+    
+}
+ 
+.iniciob{ 
+    display:block; 
+    margin: 4rem 3rem 0 1rem; 
+   
+    
+}
+ 
+.clientebarra{  
+width: 250px;  
+border: solid; 
+padding: 10px;
+
+
+}      
+.habilidades{  
+    display: flex; 
+    margin:0 4rem 0 2rem
+
+}
+
+.tecnicas{ 
+    
+      display: flex;
+      justify-content: space-between; 
+      flex-basis: calc(30% -2rem);
+      margin:"20px"
+} 
+/** fin de habilidades**/
+
+   /*tamaño de imagenes*/
+.mn{ 
+    width: 17rem;
+    height: 10rem; 
+    margin:0 2rem 0 2rem
+     
+}
+   
+.s{ 
+    width: 17rem;
+    height: 10rem; 
+    margin: 2rem;
+     
+/**color de seccion**/
+}  
+ 
+.raya{ 
+    padding:8px ; 
+    border: 10px solid rgb(181, 183, 187);
+    width: 500%px;
+    
+    
+}
